@@ -5,4 +5,4 @@ horas = [
     "13:00","14:00","15:00","16:00","17:00"
 ]
 
-salones = [f"{i}C" for i in range(101,116)]
+salones = [f"{i}C" for i in range(101, 116)]

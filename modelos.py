@@ -7,8 +7,6 @@ class Usuario:
 
 class Profesor(Usuario):
     def __init__(self, nombre, username, password, materias):
-        if len(materias) > 2:
-            raise ValueError("Máximo 2 materias")
         super().__init__(nombre, username, password, "profesor")
         self.materias = materias
         self.disponibilidad = []

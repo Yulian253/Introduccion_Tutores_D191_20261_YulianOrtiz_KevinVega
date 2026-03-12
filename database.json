@@ -5,10 +5,7 @@
             "username": "kjosevega",
             "password": "123",
             "rol": "profesor",
-            "materias": [
-                "sistemas",
-                "espa\u00f1ol"
-            ]
+            "materias": ["sistemas", "español"]
         },
         {
             "nombre": "kevin vega",
@@ -16,5 +13,6 @@
             "password": "123",
             "rol": "estudiante"
         }
-    ]
+    ],
+    "tutorias": []
 }
