@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+        {
+            "nombre": "kevin vega",
+            "username": "kjosevega",
+            "password": "123",
+            "rol": "profesor",
+            "materias": ["sistemas", "español"]
+        },
+        {
+            "nombre": "kevin vega",
+            "username": "kjosevega2",
+            "password": "123",
+            "rol": "estudiante"
+        }
+    ],
+    "tutorias": []
+}
